@@ -3,3 +3,7 @@
   <h1><b>Crocsy</b></h1>
   <p>Simple proxy app made with HTML, Css, Javascript. Get random free Http/Https proxies</p>
 </h1>
+<br><br><br><br>
+
+# Preview
+You can see preview of app [here](https://kourva.github.io/Crocsy)
