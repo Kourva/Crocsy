@@ -13,7 +13,7 @@ async function getProxies() {
         url: 'https://proxyspider-proxy-spider-proxies-v1.p.rapidapi.com/proxies.example.json',
         method: 'GET',
         headers: {
-            'X-RapidAPI-Key': 'b99fbf92bamsh8f425725f1304e9p119c55jsn98dd1febc9d8',
+            'X-RapidAPI-Key': 'xxx',
             'X-RapidAPI-Host': 'proxyspider-proxy-spider-proxies-v1.p.rapidapi.com'
         }
     };
